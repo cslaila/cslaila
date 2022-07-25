@@ -1,8 +1,4 @@
 ### Front-end Developer 👩🏻‍💻
-<br />
-
-&#x1f4c8; Status Github
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cslaila&theme=radical" alt="arunsridher" /></p>
 
 <br />
 🛠 &nbsp;Tech Stack
